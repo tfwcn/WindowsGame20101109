@@ -1,0 +1,3 @@
+F:\WindowsGame20101109\WindowsGame20101109\WindowsGame20101109Content\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\WindowsGame20101109\WindowsGame20101109\WindowsGame20101109Content\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\myfile\MyCsharp\XnaProject\WindowsGame20101109\WindowsGame20101109\WindowsGame20101109Content\obj\x86\Debug\ResolveAssemblyReference.cache
